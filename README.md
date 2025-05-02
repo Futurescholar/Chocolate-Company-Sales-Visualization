@@ -35,22 +35,8 @@ The dashboard includes KPI cards, time trend charts, salesperson and product per
 Here’s a snapshot of the interactive dashboard built with Power BI:
 ## 🖥️ Dashboard Preview
 
-### 📊 Total Sales Line Chart
-![Overall Dashboard showing total sales line chart](./Sales.png)
-
-### 📈 Monthly Trend Sample
-![Overall Dashboard showing total profit line chart](./Screenshot%20(59).png)
-
-### 📈 Monthly Trend Sample
-![Overall Dashboard showing total profit line chart](./Screenshot%20(60).png)
-
-### 📈 Monthly Trend Sample
-![Overall Dashboard showing total profit line chart](./Screenshot%20(61).png)
-
-### 📈 Monthly Trend Sample
-![Overall Dashboard showing total profit line chart](./Screenshot%20(62).png)
-
-
+### 📊 Dashboard
+![Overall Dashboard](./Overall%20Dashboard.png)
 
 You can explore:
 - Monthly trends for sales, profit, cost, shipment, and boxes.
@@ -128,5 +114,11 @@ Time Frame: Feb 2023 – Feb 2024
 
 
 
-## 📁 Repository Structure
+---
 
+##  Contact
+
+Feel free to connect or reach out if you'd like to collaborate or provide feedback:
+
+-  [mustaphabilal58@gmail.com]
+-  [Your LinkedIn or Portfolio Link]
