@@ -1,4 +1,4 @@
-# Chocolate-Comapny-Sales-Visualization
+# Chocolate-Company-Sales-Visualization
 A Documentation of the Analysis Done on a Chocolate Company's 12 months Dataset
 
 ##  Project Overview
