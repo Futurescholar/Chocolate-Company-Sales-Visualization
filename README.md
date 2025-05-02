@@ -34,6 +34,8 @@ The dashboard includes KPI cards, time trend charts, salesperson and product per
 
 Here’s a snapshot of the interactive dashboard built with Power BI:
 ![Dashboard Overview](./Screenshot(58).png)
+![Alt Text](./Chocolate-Comapany-Sales-Visualization/Screenshot(59).png)
+
 
 
 You can explore:
