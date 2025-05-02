@@ -1,5 +1,5 @@
 # Chocolate-Comapny-Sales-Visualization
-A Documentation of the Analysis Done on a Chocolate Comapnay's 12 months Dataset
+A Documentation of the Analysis Done on a Chocolate Company's 12 months Dataset
 
 ##  Project Overview
 This Power BI project analyzes chocolate sales data from **February 2023 to February 2024**, aiming to identify key trends, improve sales strategy, and provide actionable insights for business growth.
