@@ -21,14 +21,14 @@ The dashboard includes KPI cards, time trend charts, salesperson and product per
 
 
 ## Visualization Approach
-Imported data into Power BI and applied transformations.
-Enhanced the calendar table with derived fields like Month Name, and Start of Month.
-Centralized DAX measures into a dedicated table for clarity.
-Created KPI cards for Total Sales, Profit, Costs, Boxes Sold, and Shipment.
-Designed line charts to visualize time trends across all key metrics from Feb 2023 to Feb 2024.
-Built a histogram showing shipment distribution by box quantity (20-box bins).
-Developed performance tables for both products and salespersons.
-Included slicers for Category and Geography to enable focused insights.
+- Imported data into Power BI and applied transformations.
+- Enhanced the calendar table with derived fields like Month Name, and Start of Month.
+- Centralized DAX measures into a dedicated table for clarity.
+- Created KPI cards for Total Sales, Profit, Costs, Boxes Sold, and Shipment.
+- Designed line charts to visualize time trends across all key metrics from Feb 2023 to Feb 2024.
+- Built a histogram showing shipment distribution by box quantity (20-box bins).
+- Developed performance tables for both products and salespersons.
+- Included slicers for Category and Geography to enable focused insights.
 
 ---
 
