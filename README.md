@@ -30,6 +30,17 @@ The dashboard includes KPI cards, time trend charts, salesperson and product per
 - Developed performance tables for both products and salespersons.
 - Included slicers for Category and Geography to enable focused insights.
 
+## 🖥️ Dashboard Preview
+
+Here’s a snapshot of the interactive dashboard built with Power BI:
+
+
+You can explore:
+- Monthly trends for sales, profit, cost, shipment, and boxes.
+- Top-performing products and salespeople.
+- Shipment distribution and category breakdowns.
+
+
 ---
 
 ## Key Observations
