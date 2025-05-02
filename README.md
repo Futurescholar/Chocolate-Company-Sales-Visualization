@@ -33,7 +33,22 @@ The dashboard includes KPI cards, time trend charts, salesperson and product per
 ## 🖥️ Dashboard Preview
 
 Here’s a snapshot of the interactive dashboard built with Power BI:
-Screenshot (58).png
+## 🖥️ Dashboard Preview
+
+### 📊 Total Sales Line Chart
+![Overall Dashboard showing total sales line chart](./Sales.png)
+
+### 📈 Monthly Trend Sample
+![Overall Dashboard showing total profit line chart](./Screenshot%20(59).png)
+
+### 📈 Monthly Trend Sample
+![Overall Dashboard showing total profit line chart](./Screenshot%20(60).png)
+
+### 📈 Monthly Trend Sample
+![Overall Dashboard showing total profit line chart](./Screenshot%20(61).png)
+
+### 📈 Monthly Trend Sample
+![Overall Dashboard showing total profit line chart](./Screenshot%20(62).png)
 
 
 
