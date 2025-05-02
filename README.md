@@ -33,6 +33,7 @@ The dashboard includes KPI cards, time trend charts, salesperson and product per
 ## 🖥️ Dashboard Preview
 
 Here’s a snapshot of the interactive dashboard built with Power BI:
+![Dashboard Overview](./Screenshot(58).png)
 
 
 You can explore:
