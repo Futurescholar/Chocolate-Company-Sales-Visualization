@@ -1,4 +1,4 @@
-# Chate-Company-Sales-Visualization
+# Chocate-Company-Sales-Visualization
 A Documentation of the Analysis Done on a Chocolate Company's 12 months Dataset
 
 ##  Project Overview
